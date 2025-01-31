@@ -1,5 +1,11 @@
-## 👋 Hi there! 
-🔭 I’m currently working on my research project for my MSc in Medical Physics, which is on the topic of MRI. 
+# 👋 About me
+
+🎓 Currently studying for a MSc Medical Physics
+
+🔭 Currently working on a research project on the topic of MRI
+
+🧲 The project is looking into how magnetic resonance fingeprinting can be employed to measure T2* and magnetic field perturbations simulataneously
+
 <!--
 **kevinmcnally000/kevinmcnally000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
