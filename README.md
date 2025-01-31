@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 👋 Hi there! 
+🔭 I’m currently working on my research project for my MSc in Medical Physics, which is on the topic of MRI. 
 <!--
 **kevinmcnally000/kevinmcnally000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
